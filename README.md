@@ -8,6 +8,15 @@
 - 🌱 I’m currently learning to code in Python while also brushing up my HTML CSS and Javascript.  
 - 🤔 I’m looking for help with cloud services, gardening, guitar and TedTalk Recommendations.
 
+### Shane's To-do
+- [x] Reorganize Garage
+- [x] Get Dinner Planned
+- [x] Reoranize Storage
+- [x] Paint the office
+- [ ] Learn Python
+- [ ] Learn a new language
+- [ ] Get to the Moon
+
 <!--
 
 https://images.squarespace-cdn.com/content/v1/6422f0caf6bfab5a102bb70a/1714588966359-5NXNIX6WL0NMMNYXN3B8/20220626_191356+%281%29.jpg?format=500w
